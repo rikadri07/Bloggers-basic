@@ -1,0 +1,3 @@
+django-admin startproject blog_platform_backend
+cd blog_platform_backend
+python manage.py startapp blog

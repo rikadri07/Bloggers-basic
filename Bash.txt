@@ -1,0 +1,2 @@
+npx create-next-app@latest blog-platform-frontend
+cd blog-platform-frontend
